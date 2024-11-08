@@ -1,0 +1,5 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /api-key
+
+Sitemap: https://my-app-seven-self.vercel.app/sitemap.xml
